@@ -1,6 +1,6 @@
 Creating a professional LinkedIn profile is essential for making a strong online presence. Here's a step-by-step guide to help you set up an impressive LinkedIn profile:
 
-### 1. **Profile Picture**
+1. **Profile Picture**
    - **Choose a Professional Photo:** Use a high-quality, recent headshot where you look approachable and confident. Dress in a way that reflects your profession.
    - **Background Photo:** Select a background photo that complements your profession or personal brand. This could be something related to your field or an image that represents your professional interests.
 
